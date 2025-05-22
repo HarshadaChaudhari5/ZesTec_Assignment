@@ -1,0 +1,190 @@
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.dll.config
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.pdb
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.exe
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.exe.config
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.rsp
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.exe
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.exe.config
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.rsp
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.AppContext.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Collections.Immutable.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Console.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Globalization.Calendars.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.Compression.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.FileSystem.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Net.Http.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Net.Sockets.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Reflection.Metadata.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.ValueTuple.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XPath.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.exe
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.exe.config
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.rsp
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\VBCSCompiler.exe
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\VBCSCompiler.exe.config
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Antlr3.Runtime.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Extensions.Primitives.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Web.Infrastructure.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Newtonsoft.Json.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Buffers.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.IO.Pipelines.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Memory.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Numerics.Vectors.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Threading.Tasks.Extensions.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Helpers.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Mvc.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Optimization.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Razor.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Deployment.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Razor.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\WebGrease.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Extensions.Primitives.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Buffers.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.IO.Pipelines.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Memory.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Numerics.Vectors.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Threading.Tasks.Extensions.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Helpers.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Mvc.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Optimization.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Razor.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Deployment.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Razor.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Newtonsoft.Json.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Antlr3.Runtime.pdb
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.csproj.AssemblyReference.cache
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.csproj.CoreCompileInputs.cache
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Ass.153B25D2.Up2Date
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.dll
+E:\Practice Test\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.pdb
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.dll.config
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\CRUD_Assignment_ZesTec.pdb
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.exe
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.exe.config
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csc.rsp
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.exe
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.exe.config
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\csi.rsp
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Managed.Core.targets
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.AppContext.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Collections.Immutable.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Console.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Globalization.Calendars.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.Compression.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.FileSystem.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Net.Http.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Net.Sockets.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Reflection.Metadata.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.ValueTuple.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XPath.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.exe
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.exe.config
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\vbc.rsp
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\VBCSCompiler.exe
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\roslyn\VBCSCompiler.exe.config
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Antlr3.Runtime.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Extensions.Primitives.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Web.Infrastructure.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Newtonsoft.Json.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Buffers.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.IO.Pipelines.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Memory.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Numerics.Vectors.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Threading.Tasks.Extensions.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Helpers.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Mvc.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Optimization.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Razor.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Deployment.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Razor.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\WebGrease.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.Extensions.Primitives.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Buffers.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.IO.Pipelines.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Memory.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Numerics.Vectors.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Threading.Tasks.Extensions.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Helpers.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Mvc.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Optimization.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.Razor.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Deployment.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\System.Web.WebPages.Razor.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Newtonsoft.Json.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Antlr3.Runtime.pdb
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.csproj.AssemblyReference.cache
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.csproj.CoreCompileInputs.cache
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Ass.153B25D2.Up2Date
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.dll
+C:\_aZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\CRUD_Assignment_ZesTec\obj\Debug\CRUD_Assignment_ZesTec.pdb
